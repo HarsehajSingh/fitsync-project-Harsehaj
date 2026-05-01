@@ -20,3 +20,5 @@ To get started with FitSync, follow these steps:
 
 1. Clone the repository to your local machine:
 
+=======
+# fitsync-project-Harsehaj
